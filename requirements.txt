@@ -4,7 +4,7 @@ pandas
 altair
 pyupbit
 pykrx
-FinanceDataReader
+finance-datareader
 streamlit-autorefresh
 python-binance
 beautifulsoup4
