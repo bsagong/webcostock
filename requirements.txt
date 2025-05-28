@@ -2,3 +2,5 @@ streamlit
 requests
 beautifulsoup4
 pyupbit
+pykrx
+finance-datareader
