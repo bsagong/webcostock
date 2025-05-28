@@ -1,6 +1,11 @@
 streamlit
 requests
-beautifulsoup4
+pandas
+altair
 pyupbit
 pykrx
-finance-datareader
+FinanceDataReader
+streamlit-autorefresh
+python-binance
+beautifulsoup4
+numpy
